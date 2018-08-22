@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KimGenius/cypress/issues"
   },
-  "homepage": "https://github.com/KimGenius/cypress#readme"
+  "homepage": "https://github.com/KimGenius/cypress#readme",
+  "devDependencies": {
+    "cypress": "^3.1.0"
+  }
 }
